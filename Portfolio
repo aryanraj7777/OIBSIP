@@ -1,0 +1,131 @@
+PORTFOLIO
+
+HTML
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 24px;
+      margin: 0;
+    }
+
+    main {
+      margin: 20px;
+    }
+
+    .contact-info {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 20px;
+    }
+
+    .contact-info div {
+      flex: 1;
+    }
+
+    .portfolio-item {
+      margin-bottom: 20px;
+    }
+
+    .portfolio-item h3 {
+      margin: 10px 0;
+    }
+
+    .portfolio-item p {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Aryan raj</h1>
+    <img src="profile picture.JPG" alt="Profile Picture" width="150">
+  </header>
+
+  <main>
+<h1>Short Intro </h1>
+<p>I am a versatile professional with expertise in Python development, web development, graphics design, and content writing. As a Python developer, I leverage the power of this versatile language to create efficient and robust software solutions. My skills in Python extend to web development, where I excel at building dynamic and user-friendly websites using frameworks like Django and Flask.<br><br>As a web developer, I have a strong command of HTML, CSS, and JavaScript, enabling me to craft visually appealing and responsive websites. I strive to create seamless user experiences by implementing modern design principles and incorporating the latest web technologies.<br><br>In addition to my technical skills, I am also a skilled graphics designer. I have an eye for aesthetics and a passion for creating visually captivating designs. Whether it's logos, branding materials, or user interface elements, I always aim to deliver engaging and professional designs that align with the client's vision.<br><br>Furthermore, I am an accomplished content writer, capable of crafting compelling and engaging written content across various genres. From blog posts and articles to website copy and technical documentation, I have the ability to convey complex information in a clear and concise manner.<br><br>As a freelancer, I bring my diverse skill set and passion for innovation to every project I undertake. I am dedicated to delivering high-quality work within the given deadlines, ensuring client satisfaction and surpassing expectations.<br><br>With a strong background in Python development, web development, graphics design, and content writing, I am well-equipped to tackle multifaceted projects. I am constantly exploring new technologies and staying updated with the latest industry trends to enhance my skills and offer cutting-edge solutions.<br><br>If you're looking for a skilled professional who can handle various aspects of software development, design, and content creation, feel free to reach out!!!</p>
+    <div class="contact-info">
+      <div>
+        <h2>Contact Information</h2>
+        <p>Email: aryanraj192002@gmail.com.com</p>
+        <p>Phone: 8603027470</p>
+      </div>
+      <div>
+        <h2>Social Media</h2>
+        <p>GitHub: <a href="https://github.com/aryanraj7777">GitHub.com/in/Aryan raj</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/aryan-raj-754326231/">linkedin.com/in/Aryan raj</a></p>
+      </div>
+    </div>
+
+    <div class="portfolio-item">
+      <h3>Project 1</h3>
+<h4> Name: Future facts </h4>
+      <p>Description of project 1.</p>
+<p>Future facts 
+• Created project focused on providing users with an enjoyable experience via the use of their name 
+to gain insight on the future
+• Developed and implemented algorithms to generate results based on name input
+• Utilized coding experience to build intuitive user interfaces (UIs) and user experience (UX) design
+• Optimized code to ensure fast loading times and efficient operation
+• Collaborated with others to develop project features and enhance user experience
+• Established methods to maintain and support project </p>
+    </div>
+
+    <div class="portfolio-item">
+      <h3>Project 2</h3>
+<h4> Smart Bracelet </h4>
+      <p>Description of project 2.</p>
+<p>Smart Bracelet Apr 2022 - May 2022
+• Utilizing knowledge of payment processes, developed innovative project to facilitate easy and safe 
+payments.
+• Designed system to address issues including security, speed and cost efficiency.
+• Implemented successful strategies to ensure data accuracy and customer satisfaction.
+• Streamlined payment procedure to reduce complexity and time taken for payments.
+• Handled customer inquiries and troubleshooting issues efficiently.
+• Ensured compliance with industry regulations</p>
+    </div>
+
+    <div class="portfolio-item">
+      <h3>Project 3</h3>
+<h4> Smart light </h4>
+      <p>Description of project 3.</p>
+<p>Smart light Jan 2023 - Feb 2023
+• Developed project to save light energy and use it in smart ways. 
+• Utilized innovative methods to maximize efficiency of light energy. 
+• Applied technical skills to create a project that will benefit its users. 
+• Designed interface to make it user-friendly and efficient. 
+• Implemented advanced features to ensure the success of the project. 
+• Developed a streamlined </p>
+<br>
+<h1> Some of My sample design as a Graphics designer </h1>
+<br>
+<img src="game for warriors.PNG" alt="design for a game" width="120" length="120">
+<br>
+<img src="Mahashivratri (Illuminate) HIT.PNG" alt="design for college society" width="120" length="120">
+<br>
+<img src="Mother's Day 2023 (Illuminate).PNG" alt="design for college society" width="120" length="120">
+
+
+    </div>
+  </main>
+</body>
+</html>
+
